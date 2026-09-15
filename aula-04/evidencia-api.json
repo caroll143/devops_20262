@@ -1,0 +1,9 @@
+﻿{
+    "health":  {
+                   "status":  "healthy"
+               },
+    "root":  {
+                 "message":  "TechNova API",
+                 "status":  "running"
+             }
+}
